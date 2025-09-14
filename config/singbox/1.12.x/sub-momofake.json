@@ -108,7 +108,7 @@
       "tag": "http-in",
       "type": "http",
       "listen": "::",
-      "listen_port": 8080
+      "listen_port": 7080
     },
     {
       "tag": "socks-in",
